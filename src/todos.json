@@ -1,0 +1,29 @@
+{
+	"todos" :
+	[
+		{
+			"imagen" :  "https://ss241.liverpool.com.mx/xl/1071191971.jpg",
+			"nombre" :  "Abrigo Dana Negro",
+			"precio" : "$ 1,999.00",
+			"prioridad" : "Caballeros"
+		},
+		{
+			"imagen" :  "https://ss524.liverpool.com.mx/xl/1071041794.jpg",
+			"nombre" :  "Jeans Aéropostale corte skinny azul claro",
+			"precio" : "$ 559.30",
+			"prioridad" : "Damas"
+		},
+		{
+			"imagen" :  "https://ss450.liverpool.com.mx/xl/1060996454.jpg",
+			"nombre" :  "Playera tipo polo lisa Benetton de algodón para niño",
+			"precio" : "$ 390.00",
+			"prioridad" : "Niños"
+		},
+		{
+			"imagen" :  "https://ss207.liverpool.com.mx/xl/1077558558.jpg",
+			"nombre" :  "Motocicleta Italika Vort X200 199cc 2019",
+			"precio" : "$ 49,499.10",
+			"prioridad" : "Deportes"
+		}
+	]
+}
